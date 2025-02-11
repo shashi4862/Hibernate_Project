@@ -1,2 +1,2 @@
 Image:- 
-![Alt text](/SS.png "optional title")
+![Alt text](/ss1.png "optional title")
